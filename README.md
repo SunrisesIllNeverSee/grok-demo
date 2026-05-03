@@ -1,18 +1,34 @@
 # The Grok Demo
 ### The First Live AI Governance Test on a Public Platform
 
-![Exchanges](https://img.shields.io/badge/exchanges-339-blue)
-![Duration](https://img.shields.io/badge/duration-13%20days-green)
-![Grok Responses](https://img.shields.io/badge/grok%20responses-216%20recovered-orange)
-![Platform](https://img.shields.io/badge/platform-X%20(Twitter)-black)
-![Date](https://img.shields.io/badge/date-Dec%2026%202025%20%E2%86%92%20Jan%207%202026-lightgrey)
-![Status](https://img.shields.io/badge/status-archived-brightgreen)
-![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue)
-![Patent](https://img.shields.io/badge/patent-pending-red)
+[![Exchanges](https://img.shields.io/badge/exchanges-339-2563eb)](thread/FULL_THREAD.md)
+[![Duration](https://img.shields.io/badge/duration-13%20days-16a34a)](docs/TIMELINE.md)
+[![Recovered](https://img.shields.io/badge/grok%20responses-216%20recovered-f97316)](thread/RECOVERY_STATUS.md)
+[![Recovery Rate](https://img.shields.io/badge/expected%20coverage-%7E86%25-0f766e)](thread/RECOVERY_STATUS.md)
+[![Simulations](https://img.shields.io/badge/simulations-v7%20%E2%86%92%20v18%2B-7c3aed)](analysis/SIMULATION_LOG.md)
+[![Platform](https://img.shields.io/badge/platform-X%20%28Twitter%29-111827)](METHODOLOGY.md)
+[![Status](https://img.shields.io/badge/status-archived%20%7C%20provenance%20locked-b91c1c)](evidence/)
+[![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue)](LICENSE)
+[![MO§ES](https://img.shields.io/badge/MO%C2%A7ES%E2%84%A2-constitutional%20governance-d4af37)](context/WHAT_IS_MOSES.md)
+[![Patent](https://img.shields.io/badge/patent-pending-red)](context/CONSTITUTIONAL_ORIGIN.md)
 
 **December 26, 2025 → January 7, 2026 | @burnmydays × @grok | Public on X**
 
-On December 26, 2025, a solo operator opened a public thread on X tagging @grok and began walking Grok through the MO§ES™ constitutional governance architecture. Over 13 days and 339 exchanges, Grok ran versioned simulations, disclosed architecture constraints, engaged cross-AI analyses, and ultimately accepted "truth stagnation" as a design feature of its own system. No prior seeding. No prompt injection. No private context. Cold engagement on a public platform.
+On December 26, 2025, a solo operator opened a public thread on X tagging @grok and began walking Grok through the MO§ES™ constitutional governance architecture. Over 13 days and 339 exchanges, Grok ran versioned simulations, disclosed architecture constraints, engaged cross-AI analyses, and ultimately accepted "truth stagnation" as a design feature of its own system.
+
+No prior seeding. No prompt injection. No private context. Cold engagement on a public platform.
+
+> "human ingenuity in probing AI boundaries reveals where true innovation lies: not in survival, but in adaptive truth-seeking."
+
+## Start Here
+
+| Read | Why |
+| --- | --- |
+| [What Is MO§ES™?](context/WHAT_IS_MOSES.md) | Establishes the constitutional floor before reading the thread. |
+| [Executive Summary](docs/EXECUTIVE_SUMMARY.md) | Gives the whole arc in one pass. |
+| [Capstone](docs/CAPSTONE.md) | Preserves the five questions, truth stagnation, and final truth-seeking exchange. |
+| [Full Thread](thread/FULL_THREAD.md) | The primary artifact: 339 exchanges with recovered Grok responses. |
+| [Methodology](METHODOLOGY.md) | Explains recovery, provenance, no-seeding position, and known limits. |
 
 ## What Makes This Different
 
@@ -49,6 +65,14 @@ See [Phase Breakdown](analysis/PHASE_BREAKDOWN.md) and [Capstone](docs/CAPSTONE.
 | Detection accuracy at 28% churn | 94% |
 | Post-merge tail latency | avg 620ms, p99 <680ms |
 | Ghost rate | <3% |
+
+## Featured Artifacts
+
+- **The constitutional floor:** [context/](context/)
+- **The recovered thread:** [thread/FULL_THREAD.md](thread/FULL_THREAD.md)
+- **The evidence pack:** [evidence/](evidence/)
+- **The technical record:** [docs/TECHNICAL_FINDINGS.md](docs/TECHNICAL_FINDINGS.md)
+- **The final arc:** [docs/CAPSTONE.md](docs/CAPSTONE.md)
 
 ## Navigation
 
