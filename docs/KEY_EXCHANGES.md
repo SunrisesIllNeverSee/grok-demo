@@ -1,3 +1,11 @@
+---
+type: Reference
+title: Key Exchanges
+description: Key Exchanges — documentation in docs/.
+tags: [documentation, docs]
+timestamp: 2026-08-19
+---
+
 # Key Exchanges
 
 This is a guided index into the full thread. The complete source remains [thread/FULL_THREAD.md](../thread/FULL_THREAD.md).

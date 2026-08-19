@@ -1,3 +1,11 @@
+---
+type: Reference
+title: Timeline
+description: Timeline — documentation in docs/.
+tags: [documentation, docs]
+timestamp: 2026-08-19
+---
+
 # Timeline
 
 | Date | Exchanges | Key Moments |

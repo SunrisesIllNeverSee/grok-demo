@@ -1,3 +1,11 @@
+---
+type: Reference
+title: Technical Findings
+description: Technical Findings — documentation in docs/.
+tags: [documentation, docs]
+timestamp: 2026-08-19
+---
+
 # Technical Findings
 
 This file collects the hard technical claims and metrics surfaced in the thread. These are thread artifacts, not independently reproduced benchmark results.

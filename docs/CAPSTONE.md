@@ -1,3 +1,11 @@
+---
+type: Reference
+title: Capstone
+description: Capstone — documentation in docs/.
+tags: [documentation, docs]
+timestamp: 2026-08-19
+---
+
 # Capstone
 
 By Exchange 217, the thread had already moved through architecture review, simulation runs, cross-AI triangulation, xAI architecture disclosures, and a live diagnostic session. The final arc asks what remains when every ordinary verifier can be compromised.

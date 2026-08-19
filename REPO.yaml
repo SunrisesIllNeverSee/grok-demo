@@ -1,0 +1,39 @@
+standard:
+  name: ello-repo-standard
+  version: "1.0.0"
+  mode: migrate
+
+repo:
+  name: grok-demo
+  type: experiment
+  lifecycle: active
+  repo_id: grok_demo
+  family: moses
+  purpose: grok-demo — provenance artifact. 339 Grok exchanges testing MO§ES governance. Provenance locked — do not reorganize payload.
+
+structure:
+  profile: experiment
+  allowed_root_dirs_extra: [analysis, context, docs, evidence, thread, system-devin]
+  allowed_root_files_extra: [METHODOLOGY.md]
+  document_roots: [docs]
+  artifact_roots: [artifacts, analysis, evidence, thread]
+  archive_roots: [archive]
+
+naming:
+  forbid_version_suffixes: true
+  forbidden_suffixes: [_final, _final2, _new, _updated, _revised, _copy]
+
+knowledge:
+  okf_enabled: true
+  okf_roots: [docs, .coord]
+  okf_severity: warn
+
+coordination:
+  micro_enabled: true
+  micro_root: .coord/micro
+  macro_enabled: true
+  macro_root: .coord/macro
+
+github:
+  ruleset_profile: solo-fast
+  required_check: repo-standard

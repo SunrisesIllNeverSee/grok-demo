@@ -1,3 +1,11 @@
+---
+type: Reference
+title: Executive Summary
+description: Executive Summary — documentation in docs/.
+tags: [documentation, docs]
+timestamp: 2026-08-19
+---
+
 # Executive Summary
 
 The Grok Demo is a 339-exchange public X thread between @burnmydays and @grok, conducted from December 26, 2025 through January 7, 2026. The thread begins with a cold presentation of MO§ES™ governance concepts and grows into a sustained live test of constitutional AI governance, simulation behavior, cross-system validation, and long-horizon truth constraints.
